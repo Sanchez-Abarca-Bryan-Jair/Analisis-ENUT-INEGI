@@ -29,7 +29,7 @@ El proyecto se desarrolló en dos fases principales enfocadas en el rigor estad�
 
 ## Estructura del Repositorio
 ```text
-├── data/                   
+├── data/ https://www.inegi.org.mx/programas/enut/2024/#microdatos                  
 ├── notebooks/              
 ├── dashboard/              
 ├── images/                 
