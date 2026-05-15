@@ -29,8 +29,8 @@ El proyecto se desarrolló en dos fases principales enfocadas en el rigor estad�
 
 ## Estructura del Repositorio
 ```text
-├── data/                   # Base de datos cruda y procesada (o enlace al INEGI si es muy pesada)
-├── notebooks/              # Jupyter Notebooks con el código de limpieza (Pandas)
-├── dashboard/              # Archivo .pbix de Power BI interactivo
-├── images/                 # Capturas de pantalla de los gráficos y perfiles de análisis
-└── README.md               # Resumen del proyecto
+├── data/                   
+├── notebooks/              
+├── dashboard/              
+├── images/                 
+└── README.md               
