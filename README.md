@@ -9,6 +9,7 @@ Análisis descriptivo de la ENUT 2024 con Python y Power BI para visibilizar la 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-100000?style=for-the-badge&logo=data&logoColor=white)
 
 > **Un análisis exploratorio y visual sobre la brecha de género, la doble jornada y el impacto de la economía de cuidados en la sociedad mexicana.**
+<img width="1504" height="811" alt="image" src="https://github.com/user-attachments/assets/73816ef0-366a-4105-9d1f-d80ae89b845d" />
 
 
 ## Resumen
