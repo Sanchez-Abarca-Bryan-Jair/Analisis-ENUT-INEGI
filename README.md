@@ -10,8 +10,6 @@ Análisis descriptivo de la ENUT 2024 con Python y Power BI para visibilizar la 
 
 > **Un análisis exploratorio y visual sobre la brecha de género, la doble jornada y el impacto de la economía de cuidados en la sociedad mexicana.**
 
-![Dashboard Preview](ruta_a_la_imagen_principal_de_tu_dashboard.png) 
-*(Nota: Aquí te sugiero subir una captura de pantalla de tu dashboard mostrando el contraste entre la mujer y el hombre ocupado)*
 
 ## Resumen
 Este proyecto presenta un análisis exploratorio de la distribución del tiempo en México mediante los microdatos de la Encuesta Nacional sobre Uso del Tiempo (ENUT) 2024 del INEGI. Utilizando Python y Power BI, se procesó la información de tareas simultáneas (cuidados pasivos) y se normalizó mediante promedios por individuo para evitar sesgos poblacionales. El análisis multidimensional revela hallazgos estadísticos críticos sobre el trabajo invisible y la "pobreza de tiempo".
